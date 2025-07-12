@@ -46,12 +46,6 @@ A historically inspired, scaled-down 3D CAD model of the Colosseum was created w
 
 ---
 
-## 📸 Output
-
-*(Include photos of the printed model if available)*
-
----
-
 ## 🧠 Learnings & Skills Demonstrated
 
 - Proficiency in **parametric modeling** with Autodesk Fusion 360
@@ -66,10 +60,11 @@ A historically inspired, scaled-down 3D CAD model of the Colosseum was created w
 
 | File Name            | Description                       |
 |----------------------|-----------------------------------|
-| `colosseum_model.f3d`| Fusion 360 project file           |
-| `colosseum_model.stl`| STL file for 3D printing          |
-| `colosseum_model.gcode`| Sliced G-code file for printer   |
-
+| `Colosseum CAD.jpg`| Image of CAD model |
+| `Colosseum Projections.png`| Isometric and Orthographic Projections |
+| `Colosseum.f3d`| F3D file of Colosseum |
+| `Colosseum.gcode`| Gcode file of Colosseum |
+| `Colosseum Model.jpg`| Image of 3D Printed Colosseum |
 ---
 
 ## 📌 Future Improvements
